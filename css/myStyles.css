@@ -1,0 +1,36 @@
+.mainbody{
+    background-color: rgb(244, 253, 244);
+    color: black
+}
+
+
+.common{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    background-color: rgb(244, 253, 244);
+    font-size: larger
+}
+
+
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%
+}
+
+.Website{
+    text-align: center;
+    background-color: rgb(255, 102, 0);
+}
+
+.tableauPlaceholder{
+    background-color: rgb(194, 252, 196);
+}
+
+
